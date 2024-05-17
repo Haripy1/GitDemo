@@ -53,3 +53,11 @@ print("firs git change frim demo user")
 
 print("First line from Stuff user")
 
+<<<<<<< HEAD
+=======
+##############
+print("Added to the code to develop branch by Demo user")
+
+##############
+print("Added to the code to develop branch by STUFF user")
+>>>>>>> develop
