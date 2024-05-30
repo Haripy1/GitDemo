@@ -1,3 +1,4 @@
+
 #list is collection of similar or different types of data items
 # list can have duplicate items
 # list is mutable, means changeble
